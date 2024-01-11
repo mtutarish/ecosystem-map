@@ -343,6 +343,7 @@
 | Playmuse          | [Telegram](https://t.me/playmuseton)       |                                                        | [Twitter](https://twitter.com/playmuseton) | [Website](https://playmuse.org)      |
 | NFT TONificaror   | [Telegram](https://t.me/nfttonificatorbot) |                                                        |                                            |                                      |
 | NFT Drop Calendar | [Telegram](https://t.me/tonnftdropbot)     |                                                        |                                            |                                      |
+| Pawnshopducks     | [Telegram](https://t.me/pawnshopducks_bot) |                                                        |                                            |                                      |
 
 ## NFT Tooling
 
